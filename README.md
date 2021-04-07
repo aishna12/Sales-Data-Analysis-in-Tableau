@@ -46,14 +46,14 @@ ABC Hardware is a company that supplies computer hardware and peripherals to its
 <!-- METHODOLOGY -->
 ## Methodology
 
-1. **Importing the data** in MySQL `db_dump_version_2.sql` file.
-1. **Exploring data in SQL** `Data Exploration in SQL.sql` to draw some basic insights from the data inorder to get an idea on how the dashboards should be structured and designed and the main sales attributes to be taken into consideration.
+1. **Importing the data** in MySQL Workbench `db_dump_version_2.sql` file.
+1. **Exploring data in MySQL** `Data Exploration in SQL.sql` to draw some basic insights from the data inorder to get an idea on how the dashboards should be structured and designed and the main sales attributes to be taken into consideration.
 1. **Data cleaning and ETL**
-      * **Extract**: All tables in the database were extracted from MySQL Workbench in .csv format and uploaded as the Data source in Tableau Workbook
+      * **Extract**: All tables in the database were extracted from MySQL Workbench in .csv format and uploaded as the data source in Tableau Workbook
       * **Transform** : The following data transformations were done:
            * Removing Negative values from sales_amount column in transactions table.
-           * Transforming the sales_amount column of transactions done in dollars to sales_amount in rupees.
-           * Changing the name of the profit_margin column in transactions database to profit as it describes the column values better.
+           * Transforming the sales_amount column of transactions table done in dollars to sales_amount in rupees.
+           * Changing the name of the profit_margin column in transactions table database to profit as it describes the column values better.
            * Creating a Star Schema data model.
    ![image](https://user-images.githubusercontent.com/81852314/113848866-879d3100-97b6-11eb-9622-cf361497662b.png)
       * **Load**: Uploading the transformed data into our Tableau workbook. 
