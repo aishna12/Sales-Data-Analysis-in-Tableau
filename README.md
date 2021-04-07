@@ -5,7 +5,7 @@
 ## Table of Contents
 
 * [Introduction](#introduction)
-* * [Aims Grid](#aims-grid)
+* [Aims Grid](#aims-grid)
   * Purpose
   * Stakeholders
   * End Result
@@ -37,12 +37,6 @@ ABC Hardware is a company that supplies computer hardware and peripherals to its
 1. **End Result**: An automated dasboard providing prompt and filtered sales insights inorder to support data driven decision making.
 1. **Success Criteria**: Dashboard uncovers sales insights with the data available and help the sales team to minimize efforts in manually drawing insights from data and reinvest the time in making necessary business decisions to overcome the problem of declining sales.
 
-<!-- ETL -->
-## ETL
-
-
-   
- 
 <!-- SOFTWARES USED -->
 ## Softwares Used
 1. MySQL Workbench
