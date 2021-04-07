@@ -13,8 +13,8 @@
 * [Softwares Used](#softwares-used)
 * [Methodology](#methodology)
   * SQL Database
-  * Data Exploration in SQL
-  * Data Cleaning and SQL
+  * Data Exploration in MySQL
+  * Data Cleaning and ETL
   * Tableau Dashboards
 
 
