@@ -1,4 +1,4 @@
-# Sales-Data-Anaysis-in-Tableau
+# Sales-Data-Analysis-in-Tableau
 
  
 <!-- TABLE OF CONTENTS -->
